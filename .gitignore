@@ -1,0 +1,12 @@
+# Proteus temporary files
+*.bak
+*.tmp
+*.dsn.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
